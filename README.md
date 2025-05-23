@@ -1,6 +1,6 @@
 # 4-Cylinder-Engine
 
-This project showcases the dynamic simulation of a **4-cylinder internal combustion engine** using **MATLAB/Simscape Multibody**. The goal is to model the engine’s mechanical components and observe realistic piston-crankshaft dynamics.
+This project presents the design and simulation of a **4-cylinder internal combustion engine**, modeled in **SolidWorks**. It illustrates how mechanical energy is transmitted through components such as the crankshaft, pistons, and connecting rods.
 
 ## Features
 
@@ -39,4 +39,4 @@ This model includes the following key components, each vital to the engine’s o
 - **Purpose:** Connects the piston to the connecting rod via a pivot (gudgeon pin).
 - **Role:** Allows the piston to pivot as it moves up and down.
 
-![image alt](4 _cylinder-engine(drawing sheet).PDF)
+![image alt](https://github.com/user-attachments/assets/a4f4288f-d816-4390-b01a-5e4ee7eeba33)
