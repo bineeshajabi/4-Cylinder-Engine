@@ -39,3 +39,4 @@ This model includes the following key components, each vital to the engine’s o
 - **Purpose:** Connects the piston to the connecting rod via a pivot (gudgeon pin).
 - **Role:** Allows the piston to pivot as it moves up and down.
 
+![image alt](4 _cylinder-engine(drawing sheet).PDF)
